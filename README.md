@@ -12,4 +12,5 @@
 - Associaremos ou criaremos um novo recurso para ser usado.
 - Em seguida selecionar a aba "Classify Text"
 - E selecionar a opção "Analyze sentiment and opinions"
-- ![Print com a tela de teste do serviço de analise de sentimentos e opiniões](./prints/print2.jpg "Teste do serviço de analise de sentimentos e opiniões")
+![Print com a tela de teste do serviço de analise de sentimentos e opiniões](./prints/print2.jpg "Teste do serviço de analise de sentimentos e opiniões")
+

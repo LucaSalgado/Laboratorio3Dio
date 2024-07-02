@@ -1,0 +1,3 @@
+Frase de teste.
+Teste de frase.
+Essa aqui é até uma sentença, olha, tem até virgulas.
